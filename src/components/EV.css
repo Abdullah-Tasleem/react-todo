@@ -1,0 +1,10 @@
+button{
+    background-color: rgba(233, 150, 122, 0.619);
+    color: olive;
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+.main{
+    margin: auto;
+}

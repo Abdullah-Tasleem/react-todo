@@ -7,6 +7,7 @@
  * {
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
 }
 
 
@@ -133,7 +134,7 @@ span {
     */
   font-size: 20px;
   color: #1c2833;
-  border-radius: 30px;
+  border-radius: 20px;
   transition: background-color 200ms ease-in-out;
   background-color: #f2f3f4;
   min-width: 35rem;
@@ -189,6 +190,7 @@ li span {
 
 .clear-btn {
   background-color: #e74c3c;
+  color: #fff;
   font-size: 1.2rem;
   padding: 0.5rem 1.1rem;
   border-radius: 0.3rem;

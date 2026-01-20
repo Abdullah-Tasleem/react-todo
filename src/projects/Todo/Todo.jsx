@@ -34,7 +34,7 @@ export const Todo = () => {
   const handleClearTodoButton = () => {
     setInputValue([]);
   };
-
+ 
   // check todo
   const handleCheckTodo = (content) => {
     const updatedTask = inputValue.map((curTask) => {
